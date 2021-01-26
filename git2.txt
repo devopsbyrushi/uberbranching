@@ -1,0 +1,27 @@
+git config --global user.name "sudarshan"
+git config --global user.email "sudarshan@acc.com"
+
+
+
+
+git config --global --unset user.name
+git config --global --unset user.email
+
+
+
+
+outlook 
+username
+pw
+
+
+https://github.com/devopsbyrushi/DempoProject.git
+
+
+
+repo - folder
+
+clone -download
+
+
+cd change directory
